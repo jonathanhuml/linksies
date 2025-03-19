@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'navigation/main_navigation.dart';
+import 'services/api_service.dart';
 
 void main() {
   runApp(LinksiesApp());
